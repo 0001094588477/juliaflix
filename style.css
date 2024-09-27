@@ -1,0 +1,53 @@
+body {
+    color: rgba(255, 255, 255, 0.968);
+    background: rgb(0, 0, 0);
+    margin: 0px;
+    font-family: "Outfit", sans-serif;
+}
+
+header{
+border-bottom: solid 2px rgb(255, 255, 255); 
+padding: 20px;
+font-size: 32px;
+color: rgb(255, 255, 255);
+
+}
+
+section {
+    background:rgb(164, 40, 40);
+padding-bottom: 80px;
+padding-top: 80px ;
+display: flex;
+justify-content: center; 
+}
+
+
+.chamada-texto {
+margin-right: 40%;
+
+}
+
+h1{
+    font-size: 35px;
+}
+
+p {
+font-size: 20px
+}
+
+img {
+height: 151px
+}
+
+.categoria-videos {
+    display: flex;
+overflow-x: auto;
+gap: 20px;
+
+}
+
+
+{ section 
+padding-left: 20px
+padding-right: 20px
+}
